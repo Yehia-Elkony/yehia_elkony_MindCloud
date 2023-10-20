@@ -8,3 +8,9 @@ communication and electronics
 ## My favorite team
 hardware
 
+# Clonning my repo 
+- you can clone my repo by using this command
+```
+git clone https://github.com/Yehia-Elkony/yehia_elkony_MindCloud.git
+```
+
