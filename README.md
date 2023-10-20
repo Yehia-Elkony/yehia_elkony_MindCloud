@@ -1,2 +1,10 @@
-# yehia_elkony_MindCloud
-GitHub task for Mind Cloud
+# Personal info
+## My name
+yehia emad
+## My age
+23
+## My department
+communication and electronics 
+## My favorite team
+hardware
+
