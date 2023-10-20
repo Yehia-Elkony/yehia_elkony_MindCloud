@@ -19,5 +19,5 @@ git clone https://github.com/Yehia-Elkony/yehia_elkony_MindCloud.git
 # Pull request 
 ### https://github.com/Yehia-Elkony/yehia_elkony_MindCloud/pull/1
 # Screenchots
-![commits](file:///C:/Users/yehia/Pictures/Screenshots/commits.png)
-![pull req](file:///C:/Users/yehia/Pictures/Screenshots/pull%20request.png)
+![commits](commits.png)
+![pull req](pull.png)
